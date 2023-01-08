@@ -20,4 +20,5 @@ pg.csv contains data in 12 columns. "ID" is a blinded identity marker (the genot
 
 ## Sharing/access Information
 
-Links to other publicly accessible locations of the data: doi:10.5061/dryad.2v6wwpzsv![image](https://user-images.githubusercontent.com/41449473/211208015-16701e10-5dff-4824-8e0f-c12be12a51c2.png)
+Links to other publicly accessible locations of the data: doi:10.5061/dryad.2v6wwpzsv
+
